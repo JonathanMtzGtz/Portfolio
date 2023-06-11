@@ -1,0 +1,123 @@
+{
+  "configVersion": 1,
+  "timestamp": 1686445639236,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.b7891e01590e3cd1.js",
+        "/manifest.webmanifest",
+        "/polyfills.d587b5cf842b1a86.js",
+        "/runtime.65419befe98b413b.js",
+        "/scripts.326f107556f3acb7.js",
+        "/styles.744eb07dda51105b.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/03.png",
+        "/assets/img/10.png",
+        "/assets/img/4.png",
+        "/assets/img/5.png",
+        "/assets/img/6.png",
+        "/assets/img/7.png",
+        "/assets/img/8.jpg",
+        "/assets/img/9.jpg",
+        "/assets/img/fit.png",
+        "/assets/img/fit1.png",
+        "/assets/img/humano.png",
+        "/assets/img/perfil.png",
+        "/assets/img/personajes/Chef.png",
+        "/assets/img/personajes/humano.png",
+        "/assets/img/personajes/papa.png",
+        "/assets/img/personajes/snow man.png",
+        "/assets/video/Main.mp4",
+        "/assets/video/alien.mp4",
+        "/assets/video/coding.mp4",
+        "/assets/video/intro.mp4"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/assets/img/03.png": "43154fb4f9ed3248878fa29ccb1a2e98f7b6da7b",
+    "/assets/img/10.png": "2dba22aafe6e752a8ce56267cf7184be3c45347c",
+    "/assets/img/4.png": "4f802101a2347177e21542f5b47c4df991bea946",
+    "/assets/img/5.png": "e04f5502b46a13e98260427bc66bba5edcf40ae2",
+    "/assets/img/6.png": "573e902db889096d01c743b2972c3f42bad1490e",
+    "/assets/img/7.png": "a2ac322995d205f9cc4afeeeab99bea7d8603e23",
+    "/assets/img/8.jpg": "c68aba70219f470d7728b4cec7247a2bd704dee4",
+    "/assets/img/9.jpg": "a3e50f9cb182a5d1277c7ed372ae38df3874561f",
+    "/assets/img/fit.png": "cde3596146b1cffa17bb78eb7f04e9fc8dcd5922",
+    "/assets/img/fit1.png": "540bb9821d66d6a70ffe0f7256fd17500862fc02",
+    "/assets/img/humano.png": "560c6147c5c8e23dad11dac5b9bd7a749af008b1",
+    "/assets/img/perfil.png": "147d903df721fcfcf894c43ca789e4d78700352f",
+    "/assets/img/personajes/Chef.png": "b586dacab6e913a5e3ac12cd04523718b19d893e",
+    "/assets/img/personajes/humano.png": "560c6147c5c8e23dad11dac5b9bd7a749af008b1",
+    "/assets/img/personajes/papa.png": "27fb2a1c873da92de50a3ee2f8d52b00d1b2e6fd",
+    "/assets/img/personajes/snow man.png": "4694b8362ad2a0e9729fc3306360f50783d4ce76",
+    "/assets/video/Main.mp4": "8b65838dc0c851df0eb9bf5329651e25158891c9",
+    "/assets/video/alien.mp4": "a193ef6d570db81ee8f9e59769f305237e33fa4f",
+    "/assets/video/coding.mp4": "482cb8f80dcab56d9ef31cc49a0e932522634677",
+    "/assets/video/intro.mp4": "ded96469014b5cad4fc8c577da66fe17f7ff4d97",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "29ebbdbc0cc711ef1add504321b6b0b73763ec3f",
+    "/main.b7891e01590e3cd1.js": "27008258ec2406b77570f40f7697b640005240e5",
+    "/manifest.webmanifest": "ea49e0dcfe7e34b302790120c6684a4dd7228051",
+    "/polyfills.d587b5cf842b1a86.js": "22dc9a24cd472c7b7a6057d80d4e1f71124504b9",
+    "/runtime.65419befe98b413b.js": "c5b1399cbfbd2fe1888bbf0a47492fec3c0b6030",
+    "/scripts.326f107556f3acb7.js": "12b20eefbe3b1f9efa1191ccfce3bea6792c99a1",
+    "/styles.744eb07dda51105b.css": "543ad71f95121c0fe7fd3e85ac486ad74139482b"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
